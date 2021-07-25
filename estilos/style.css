@@ -30,8 +30,17 @@ article p{
 img.direita{
     float: right;
     padding-left: 11px;
+    max-width: 100px;
 }
 .videocentro{
     display: block;
     margin: auto;
+}
+article a{
+    text-decoration: none;
+    color: #1b64ec;
+}
+article a:hover{
+    transition: .5s;
+    color: purple;
 }
