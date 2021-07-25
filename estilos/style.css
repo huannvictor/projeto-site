@@ -32,5 +32,6 @@ img.direita{
     padding-left: 11px;
 }
 .videocentro{
+    display: block;
     margin: auto;
 }
