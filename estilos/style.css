@@ -12,7 +12,7 @@ main{
     margin: auto;
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.418);
-    border-radius: 15px;
+    border-radius: 20px;
 }
 h1{
     font-size: 3em;
@@ -29,5 +29,5 @@ article p{
 }
 img.direita{
     float: right;
-    padding-left: 10px;
+    padding-left: 11px;
 }
