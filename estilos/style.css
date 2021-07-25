@@ -31,3 +31,6 @@ img.direita{
     float: right;
     padding-left: 11px;
 }
+.videocentro{
+    margin: auto;
+}
